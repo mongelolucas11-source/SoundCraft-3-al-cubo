@@ -1,6 +1,9 @@
 
-# SoundCraft -3-al-cubo
-### Consola digital de sonidos
+### SoundCraft Consola digital de sonidos
+---
+
+Este es un proyecto desarrollado para la cátedra **Seminario de Actualización**, de la carrera **Lic. en Diseño y Producción Multimedial** *(a cargo de Patricio Pedersoli)*.
+
 
 <p align="center">
   Una herramienta digital para reproducir, organizar y personalizar sonidos desde un solo lugar.
@@ -86,6 +89,9 @@ La aplicación utiliza una estética moderna y tecnológica, inspirada en las co
 Desarrollar una experiencia digital intuitiva que permita a los usuarios interactuar con diferentes sonidos desde una consola virtual, combinando funcionalidad, personalización y diseño multimedia.
 
 ---
+## MockUp SoundCraft – Prototipo
+<img width="475" height="983" alt="image" src="https://github.com/user-attachments/assets/4ef68a33-e9cf-4cab-ae61-1b167903b1e2" />
+
 
 <p align="center">
   **SOUNDCRAFT**
